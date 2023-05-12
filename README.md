@@ -11,6 +11,7 @@ I'm from Indonesia 🇮🇩 and currently working in Seoul, South Korea 🇰🇷
 
 📫 How to reach me:
 - email: yogi.salomo@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yogiisinaga/)
 - instagram: [@yogiisinaga](https://www.instagram.com/yogiisinaga/)
 <!--
 **yogisalomo/yogisalomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
