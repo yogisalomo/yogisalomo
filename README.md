@@ -7,7 +7,7 @@ I'm from Indonesia 🇮🇩 and currently working in Seoul, South Korea 🇰🇷
 🌱 Aside from professional work, I’m currently working on:
 - [Personal Website & Blog](https://yogi.sh)
 - [english-speaking-korean.company](https://www.english-speaking-korean.company/) - crowd sourced website to help foreign job seekers finding english speaker-friendly companies in Korea
-- ...
+- [lab-scholarships.kr](https://www.lab-scholarships.kr/) - A one stop solution for aspiring graduate students to search information about lab/professor scholarships in Korea 🇰🇷
 
 📫 How to reach me:
 - email: yogi.salomo@gmail.com
