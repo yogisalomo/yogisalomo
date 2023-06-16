@@ -10,7 +10,7 @@ I'm from Indonesia 🇮🇩 and currently working in Seoul, South Korea 🇰🇷
 - [lab-scholarships.kr](https://www.lab-scholarships.kr/) - A one stop solution for aspiring graduate students to search information about lab/professor scholarships in Korea 🇰🇷
 
 📫 How to reach me:
-- email: yogi.salomo@gmail.com
+- email: me@yogi.sh
 - [LinkedIn](https://www.linkedin.com/in/yogiisinaga/)
 - instagram: [@yogiisinaga](https://www.instagram.com/yogiisinaga/)
 <!--
