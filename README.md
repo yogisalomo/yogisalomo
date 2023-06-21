@@ -8,6 +8,7 @@ I'm from Indonesia 🇮🇩 and currently working in Seoul, South Korea 🇰🇷
 - [Personal Website & Blog](https://yogi.sh)
 - [english-speaking-korean.company](https://www.english-speaking-korean.company/) - crowd sourced website to help foreign job seekers finding english speaker-friendly companies in Korea
 - [lab-scholarships.kr](https://www.lab-scholarships.kr/) - A one stop solution for aspiring graduate students to search information about lab/professor scholarships in Korea 🇰🇷
+- [Flashterm](https://github.com/yogisalomo/flashterm) - Flash Card in your terminal. Built with Golang.
 
 📫 How to reach me:
 - email: me@yogi.sh
