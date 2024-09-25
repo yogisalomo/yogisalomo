@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Yogi
-I'm from Indonesia 🇮🇩 and currently working in Seoul, South Korea 🇰🇷
+I'm a software engineer from Indonesia 🇮🇩 and currently working in Seoul, South Korea 🇰🇷
 
 
-🔭 I’m currently working as a Software Engineer at [Clika](https://clika.io), Auto TinyAI Company working on simplifying Model Optimization & Deployment
+🔭 I’m currently working as the Platform Team Lead at [Clika](https://clika.io), Auto TinyAI Company working on simplifying Model Optimization & Deployment
 
 🌱 Aside from professional work, I’m currently working on:
+- [lab-scholarships.kr](https://www.lab-scholarships.kr/) - A one stop solution for aspiring graduate students to search information about lab/professor scholarships in Korea 🇰🇷
 - [Personal Website & Blog](https://yogi.sh)
 - [english-speaking-korean.company](https://www.english-speaking-korean.company/) - crowd sourced website to help foreign job seekers finding english speaker-friendly companies in Korea
-- [lab-scholarships.kr](https://www.lab-scholarships.kr/) - A one stop solution for aspiring graduate students to search information about lab/professor scholarships in Korea 🇰🇷
 - [Flashterm](https://github.com/yogisalomo/flashterm) - Flash Card in your terminal. Built with Golang.
 
 📫 How to reach me:
